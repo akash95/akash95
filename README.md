@@ -63,9 +63,9 @@ I am a current Master of Science in Business Analytics student with 3.5 years of
 <h2>Badges</h2>
 
 <div >
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=akash95&count_private=true&show_icons=true&layout=compact&theme=buefy" width="400px" alt="Akash-Puthalath">
+   <!-- <img align="left" src="https://github-readme-stats.vercel.app/api?username=akash95&count_private=true&show_icons=true&layout=compact&theme=buefy" width="400px" alt="Akash-Puthalath">
     &nbsp;&nbsp;
-    &nbsp;&nbsp;
+    &nbsp;&nbsp;-->
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akash95&count_private=true&show_icons=true&layout=compact&theme=buefy" width="400px" alt="Akash-Puthalath">
 </div>
 
