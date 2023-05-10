@@ -53,11 +53,12 @@ I am a current Master of Science in Business Analytics student with 3.5 years of
 
 <h2>Past projects:</h2>
 
+- :credit_card: Credit Card Fraud Detection: Predicting credit card fraud transactions based on multiple machine learning algorithms like Neural network, XGBoost, Random Forest, Decision Tree as well Logistic Regression and then comparing their performance on the test dataset
 - :moneybag: Marketing Mix Effectiveness Analysis: Evaluated impact of advertising activities on the sales of a four-year-old cosmetic product and reported on effectiveness of advertising spends and created a regression model in R to guide future advertising investments
 - :dollar: Investment Analysis: Conducted risk analytics on investment recommendations for an asset management company, and leveraged SQL and Python to perform A/B testing and Chi-square test
 - 🎁 Amazon gift card analysis:	Web scraped eBay search results for Amazon gift cards sold above face value, and determined the fraction of such cards
-- :artist: Bored APE (NFT): Using selenium to scrape the top-8 most expensive Bored Apes (NFTs) within a specific category, and then storing each ape along with its attributes in a MongoDB collection 
-- :credit_card: Predicting the credit card fraud transaction based on multiple machine learning algorithms like Neural network, XGBoost, Random Forest, Decision Tree as well Logistic Regression and then comparing their performance on the test dataset
+- :artist: Bored APE (NFT): Used selenium to scrape the top-8 most expensive Bored Apes (NFTs) within a specific category, and then storing each ape along with its attributes in a MongoDB collection 
+
 
 
 <h2>Badges</h2>
