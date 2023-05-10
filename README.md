@@ -12,9 +12,9 @@
 </h1>
 
 I am a current Master of Science in Business Analytics student with 3.5 years of experience as an analytics professional having worked on topics such as pricing and market access, product portfolio prioritization, and revenue forecasting. As part of my practicum coursework at UC Davis, I am currently engaging with the CEO of an AI-powered clothing retailer to build a robust recommendation system and a demand forecasting model for inventory prediction. Additionally, I am well versed with using Python, R, SQL, MongoDB and Tableau. I am looking to use my past work experience along with the skillset I have developed as part of the master’s degree to solve interesting business problems in the industry.
-- 🌍  I'm currently based in San Francisco, CA
-- 📫 How to reach me: Feel free to mail me at aputhalath@ucdavis.edu, call me at (628) 276-5600 or ping me on [LinkedIn](https://www.linkedin.com/in/akashputhalath/)
+- 🌍 Currently based in San Francisco, CA
 - 👯 I’m looking to collaborate on interesting data analytics projects to solve business problems
+- 📫 How to reach me: Feel free to mail me at aputhalath@ucdavis.edu or ping me on [LinkedIn](https://www.linkedin.com/in/akashputhalath/)
 
 
 <!--<p align = 'center'>
@@ -44,7 +44,7 @@ I am a current Master of Science in Business Analytics student with 3.5 years of
   <img alt="Tableau" src="https://img.shields.io/badge/-Tableau-db7092?style=flat-square&logo=tableau-components&logoColor=white" />
 
 -->
-<h2>Ongoing Projects/Courses at UC Davis MSBA</h2>
+<h2>Ongoing Projects/Courses as part of UC Davis MSBA</h2>
 
 - 🌱 I’m currently learning - Big Data Analytics and Supply Chain as part of my MSBA Course.
 - 🔭 As part of my final project in Big Data Analytics course at UC Davis MSBA, I’m working on creating a machine learning model that can accurately diagnose medical diseases based on diagnostic data. The aim of this project is to look for ways to make the diagnosis of diseases easier and hence lead to an early diagnosis.
