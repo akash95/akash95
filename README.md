@@ -7,8 +7,8 @@
 <!--
 ### Hi, Akash here 👋-->
 <h1>
-  Hi, Akash here
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  Hi, Akash here 👋
+ <!--img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/-->
 </h1>
 
 I am a current Master of Science in Business Analytics student with 3.5 years of experience as an analytics professional having worked on topics such as pricing and market access, product portfolio prioritization, and revenue forecasting. As part of my practicum coursework at UC Davis, I am currently engaging with the CEO of an AI-powered clothing retailer to build a robust recommendation system and a demand forecasting model for inventory prediction. Additionally, I am well versed with using Python, R, SQL, MongoDB and Tableau. I am looking to use my past work experience along with the skillset I have developed as part of the master’s degree to solve interesting business problems in the industry.
