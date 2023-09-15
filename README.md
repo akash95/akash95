@@ -55,7 +55,6 @@ I am a Master of Science in Business Analytics graduate with 4 years of experien
 
 - :credit_card: Credit Card Fraud Detection: Predicting credit card fraud transactions based on multiple machine learning algorithms like Neural network, XGBoost, Random Forest, Decision Tree as well Logistic Regression and then comparing their performance on the test dataset
 - :moneybag: Marketing Mix Effectiveness Analysis: Evaluated the impact of advertising activities on the sales of a four-year-old cosmetic product and reported on the effectiveness of advertising spending and created a regression model in R to guide future advertising investments
-- :dollar: Investment Analysis: Conducted risk analytics on investment recommendations for an asset management company, and leveraged SQL and Python to perform A/B testing and Chi-square test
 - 🎁 Amazon gift card analysis:	Web scraped eBay search results for Amazon gift cards sold above face value, and determined the fraction of such cards
 - :artist: Bored APE (NFT): Used selenium to scrape the top 8 most expensive Bored Apes (NFTs) within a specific category, and then stored each ape along with its attributes in a MongoDB collection 
 
