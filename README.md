@@ -11,7 +11,7 @@
  <!--img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/-->
 </h1>
 
-I am a Master of Science in Business Analytics graduate with 4 years of experience as an analytics professional having worked on topics such as Go-To-Market Strategy, Product Portfolio tracking, and Revenue Forecasting. As part of my practicum coursework at UC Davis, I worked with the CEO of a B2C e-commerce firm and assisted them in reducing customer churn and product returns. Additionally, I am well versed in using Python, R, SQL, MongoDB, BI, and ETL Tools. I am looking to use my past work experience along with the skillset I have developed as part of the master’s degree to solve interesting business problems in the industry.
+I am a Master of Science in Business Analytics graduate with 4 years of experience as an analytics professional having worked on topics such as Go-To-Market Strategy, Product Portfolio tracking, and Revenue Forecasting. As part of my practicum project at UC Davis, I worked with the CEO of a B2C e-commerce firm and assisted the firm in reducing customer churn and product returns. Additionally, I am well versed in using Python, R, SQL, MongoDB, BI, and ETL Tools. I am looking to use my past work experience along with the skillset I have developed as part of the master’s degree to solve interesting business problems in the industry.
 - 🌍 Currently based in San Francisco, CA
 - 👯 I’m looking to collaborate on interesting data analytics projects to solve business problems
 - 📫 How to reach me: Feel free to mail me at aputhalath@ucdavis.edu or ping me on [LinkedIn](https://www.linkedin.com/in/akashputhalath/)
@@ -48,16 +48,16 @@ I am a Master of Science in Business Analytics graduate with 4 years of experien
 
 - 🌱 Recent subjects I have explored - Big Data Analytics, Optimization, Causal Inference Analysis and Time Series Analysis.
 - 🔭 As part of my final project in the Big Data Analytics course at UC Davis MSBA, I created a machine learning model that can accurately diagnose whether a person has skin cancer based on image. The aim of this project is to make the diagnosis of skin cancer easier and hence lead to an early diagnosis.
-- ⚡ One of the interesting case studies I did recently as part of Supply chain coursework was the Harvard Case Study - KYY where we basically look at storage assignments in a Unit load warehouse. 
+- ⚡ One of the interesting case studies I did recently as part of Supply chain coursework was the Harvard Case Study - KYY where we basically looked at storage assignments in a Unit load warehouse. 
 
 
 <h2>Past projects:</h2>
 
 - :credit_card: Credit Card Fraud Detection: Predicting credit card fraud transactions based on multiple machine learning algorithms like Neural network, XGBoost, Random Forest, Decision Tree as well Logistic Regression and then comparing their performance on the test dataset
-- :moneybag: Marketing Mix Effectiveness Analysis: Evaluated impact of advertising activities on the sales of a four-year-old cosmetic product and reported on effectiveness of advertising spends and created a regression model in R to guide future advertising investments
+- :moneybag: Marketing Mix Effectiveness Analysis: Evaluated the impact of advertising activities on the sales of a four-year-old cosmetic product and reported on the effectiveness of advertising spending and created a regression model in R to guide future advertising investments
 - :dollar: Investment Analysis: Conducted risk analytics on investment recommendations for an asset management company, and leveraged SQL and Python to perform A/B testing and Chi-square test
 - 🎁 Amazon gift card analysis:	Web scraped eBay search results for Amazon gift cards sold above face value, and determined the fraction of such cards
-- :artist: Bored APE (NFT): Used selenium to scrape the top-8 most expensive Bored Apes (NFTs) within a specific category, and then storing each ape along with its attributes in a MongoDB collection 
+- :artist: Bored APE (NFT): Used selenium to scrape the top 8 most expensive Bored Apes (NFTs) within a specific category, and then stored each ape along with its attributes in a MongoDB collection 
 
 
 
