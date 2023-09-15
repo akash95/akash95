@@ -58,18 +58,21 @@ I am a Master of Science in Business Analytics graduate with 4 years of experien
 - 🎁 Amazon gift card analysis:	Web scraped eBay search results for Amazon gift cards sold above face value, and determined the fraction of such cards
 - :artist: Bored APE (NFT): Used selenium to scrape the top 8 most expensive Bored Apes (NFTs) within a specific category, and then stored each ape along with its attributes in a MongoDB collection 
 
-
+<!--
 
 <h2>Badges</h2>
+-->
 
+<!--
 <div >
    <!-- <img align="left" src="https://github-readme-stats.vercel.app/api?username=akash95&count_private=true&show_icons=true&layout=compact&theme=buefy" width="400px" alt="Akash-Puthalath">
     &nbsp;&nbsp;
     &nbsp;&nbsp;-->
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akash95&count_private=true&show_icons=true&layout=compact&theme=buefy" width="400px" alt="Akash-Puthalath">
+<!--
 </div>
 
-
+-->
 
 
 <!--
