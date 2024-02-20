@@ -11,9 +11,8 @@
  <!--img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/-->
 </h1>
 
-I am a Master of Science in Business Analytics graduate with 4 years of experience as an analytics professional having worked on topics such as Go-To-Market Strategy, Product Portfolio tracking, and Revenue Forecasting. As part of my practicum project at UC Davis, I worked with the CEO of a B2C e-commerce firm and assisted the firm in reducing customer churn and product returns. Additionally, I am well versed in using Python, R, SQL, MongoDB, BI, and ETL Tools. I am looking to use my past work experience along with the skillset I have developed as part of the master’s degree to solve interesting business problems in the industry.
+I am currently working as a product analyst at Mercedes Benz Financial Services mainly focusing on improving the IVR functionality and helping build a conversational chatbot leveraging Google dialogflow. I recently completed my Master of Science in Business Analytics graduate and additionally have 4 years of experience as an analytics professional having worked on topics such as Go-To-Market Strategy, Product Portfolio tracking, and Revenue Forecasting. As part of my practicum project at UC Davis, I worked with the CEO of a B2C e-commerce firm and assisted the firm in reducing customer churn and product returns. Additionally, I am well versed in using Python, R, SQL, MongoDB, BI, and ETL Tools. 
 - 🌍 Currently based in San Francisco, CA
-- 👯 I’m looking to collaborate on interesting data analytics projects to solve business problems
 - 📫 How to reach me: Feel free to mail me at aputhalath@ucdavis.edu or ping me on [LinkedIn](https://www.linkedin.com/in/akashputhalath/)
 
 
@@ -46,7 +45,7 @@ I am a Master of Science in Business Analytics graduate with 4 years of experien
 -->
 <h2>UC Davis MSBA</h2>
 
-- 🌱 Recent subjects I have explored - Big Data Analytics, Optimization, Causal Inference Analysis and Time Series Analysis.
+- 🌱 Recent subjects I have explored - Big Data Analytics, Optimization, Causal Inference Analysis, and Time Series Analysis.
 - 🔭 As part of my final project in the Big Data Analytics course at UC Davis MSBA, I created a machine learning model that can accurately diagnose whether a person has skin cancer based on image. The aim of this project is to make the diagnosis of skin cancer easier and hence lead to an early diagnosis.
 - ⚡ One of the interesting case studies I did recently as part of Supply chain coursework was the Harvard Case Study - KYY where we basically looked at storage assignments in a Unit load warehouse. 
 
