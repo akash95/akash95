@@ -11,7 +11,7 @@
  <!--img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/-->
 </h1>
 
-I am currently working as a product analyst at Mercedes Benz Financial Services mainly focusing on improving the IVR functionality and helping build a conversational chatbot leveraging Google dialogflow. I recently completed my Master of Science in Business Analytics graduate and additionally have 4 years of experience as an analytics professional having worked on topics such as Go-To-Market Strategy, Product Portfolio tracking, and Revenue Forecasting. As part of my practicum project at UC Davis, I worked with the CEO of a B2C e-commerce firm and assisted the firm in reducing customer churn and product returns. Additionally, I am well versed in using Python, R, SQL, MongoDB, BI, and ETL Tools. 
+I am currently working at Mercedes Benz Financial Services mainly focusing on improving their digital products. I recently completed my Master of Science in Business Analytics graduate and additionally have 4 years of experience as an analytics professional having worked on topics such as Go-To-Market Strategy, Product Portfolio tracking, and Revenue Forecasting. As part of my practicum project at UC Davis, I worked with the CEO of a B2C e-commerce firm and assisted the firm in reducing customer churn and product returns. Additionally, I am well versed in using Python, R, SQL, MongoDB, BI, and ETL Tools. 
 - 🌍 Currently based in San Francisco, CA
 - 📫 How to reach me: Feel free to mail me at aputhalath@ucdavis.edu or ping me on [LinkedIn](https://www.linkedin.com/in/akashputhalath/)
 
